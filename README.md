@@ -1,7 +1,10 @@
 # 💫About Me :
-Hi I'm Eduardo! 
+Hi I'm Eduardo!
+
 Full-Stack .NET Developer.
+
 Working in a company as a Back-end .NET Developer.
+
 Also creating my own cloud-based products, for work and studies.
 
 Abilities: .NET, Docker, RabbitMQ and Apache Kafka, Blazor, Angular, SQL and NoSQL, AWS, META API
